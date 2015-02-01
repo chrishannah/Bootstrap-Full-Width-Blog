@@ -1,0 +1,56 @@
+/*
+	Globals
+*/
+
+body {
+	text-transform: uppercase; 
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+	border-bottom-width: 1px;
+	border-bottom-color: red;
+	border-bottom-style: solid;
+}
+
+a:hover {
+	text-decoration: none;
+	color: red;
+}
+
+hr {
+	border-color: red;
+}
+
+/*
+	Header
+*/
+#blog-meta {
+	color:#999;
+	margin-bottom: 0px;
+}
+
+/* 
+	Posts
+*/
+
+#post-meta {
+	color: #999;
+
+}
+
+/*
+	Footer
+*/
+.footer {
+	text-align: center;
+	color: #333;
+}
+
+/*
+	Lists
+*/
+ul li {
+	list-style-type: circle;
+}
