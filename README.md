@@ -1,3 +1,5 @@
+**Support Me** - If you like what I'm doing, then help a student continue by donating a coffee! [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisHannah/5)
+
 # Bootstrap-Full-Width-Blog
 A minimal blog template designed with <a href="http://getbootstrap.com/">Bootstrap</a>.
 
